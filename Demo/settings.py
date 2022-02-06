@@ -25,7 +25,7 @@ SECRET_KEY = 'k@w=g^2pjx%@tvv%9o4!(+@#(nhq19i!v1or*es6o6xlgse5!i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'kingslayer.azurewebsites.net',]
 
 
 # Application definition
